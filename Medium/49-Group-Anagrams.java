@@ -7,13 +7,8 @@ class Solution {
             char[] temp = (new String(n)).toCharArray();
             Arrays.sort(temp);
             String sorted = String.valueOf(temp);
-            
-            if (map.containsKey(sorted)) {
-                map.get(sorted).add(n);
-            } else {
-                map.put(sorted, new ArrayList<>());
-                map.get(sorted).add(n);
-            }
+            map.computeIfAbsent(sorted, k -> new ArrayList<>());
+            map.get(sorted).add(n);     
         }
         
         for (String key : map.keySet()) {
