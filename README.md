@@ -3,7 +3,7 @@
 #### https://leetcode.com/wsywu5354/
 
 ## LeetCode 75
-Problem | Topic | Difficulty | Link |
+Problem | Topic(s) | Difficulty | Link |
 --- | --- | --- | --- |
 1\. [Two Sum](https://leetcode.com/problems/two-sum/) | Two Pointers, Hash Table, Array | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/1-Two-Sum.java) |
 242\. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| Hash Table, Array | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/242-Valid-Anagram.java) |
