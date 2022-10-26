@@ -15,7 +15,9 @@ Problem | Topic(s) | Difficulty | Link |
 21\. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Linked List | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/21-Merge-Two-Sorted-Lists.java) |
 141\. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| Linked List, Slow-Fast Pointer | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/141-Linked-List-Cycle.java) |
 226\. [TODO Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| Binary Tree | Easy | [Java]() |
-226\. [TODO Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| Binary Tree | Easy | [Java]() |
+104\. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Binary Tree | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/104-Maximum-Depth-Of-Binary-Tree.java) |
+100\. [Same Tree](https://leetcode.com/problems/same-tree/)| Binary Tree | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/100-Same-Tree.java) |
+572\. [TODO Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)| Binary Tree | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/100-Same-Tree.java) |
 49\. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| Hash Table, Array | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/49-Group-Anagrams.java) |
 347\. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| Hash Table, Array | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/347-Top-k-Frequent-Elements.java) |
 
