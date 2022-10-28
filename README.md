@@ -24,4 +24,4 @@ Problem | Topic(s) | Difficulty | Link |
 
 ### Some Handy Tricks
 Math
-  - If a % k = x and b % k = k - x, then (a + b) % k == 0.
+  - If a % k = x and b % k = k - x, then (a + b) % k = 0.
