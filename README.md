@@ -22,8 +22,7 @@ Problem | Topic(s) | Difficulty | Link |
 347\. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| Hash Table, Array | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/347-Top-k-Frequent-Elements.java) |
 91\. [Decode Ways](https://leetcode.com/problems/decode-ways/)| Dynamic Programming | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/91-Decode-Ways.java) |
 11\. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers, Array | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/11-Container-With-Most-Water.java), [Python](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/11-Container-With-Most-Water.py)|
-3\. [Longest Substring Without Repeating Characters
-](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Sliding Window | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/11-Container-With-Most-Water.java), [Python](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/11-Container-With-Most-Water.py)|
+3\. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Sliding Window | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/3-Longest-Substring-Without-Repeating-Characters.java), [Python](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/3-Longest-Substring-Without-Repeating-Characters.py)|
 
 
 ### Some Handy Tricks
