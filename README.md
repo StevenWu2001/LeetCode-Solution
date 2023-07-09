@@ -18,6 +18,7 @@ Problem | Topic(s) | Difficulty | Link |
 104\. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Binary Tree | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/104-Maximum-Depth-Of-Binary-Tree.java) |
 100\. [Same Tree](https://leetcode.com/problems/same-tree/)| Binary Tree | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/100-Same-Tree.java) |
 572\. [TODO Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)| Binary Tree | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/100-Same-Tree.java) |
+70\. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| DP | Easy | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/70-Climbing-Stairs.java), [Python](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Easy/70-Climbing-Stairs.py)
 49\. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| Hash Table, Array | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/49-Group-Anagrams.java) |
 347\. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| Hash Table, Array | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/347-Top-k-Frequent-Elements.java) |
 91\. [Decode Ways](https://leetcode.com/problems/decode-ways/)| Dynamic Programming | Medium | [Java](https://github.com/StevenWu2001/LeetCode-Solution/blob/main/Medium/91-Decode-Ways.java) |
